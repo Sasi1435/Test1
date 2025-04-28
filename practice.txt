@@ -1,0 +1,6 @@
+git --version
+git init
+git status 
+git add <file name> -----> for staging to track your files in git
+git commit -to create a snapshot of the staged changes along a timeline of a Git projects history
+git log -----> to check the git commits
