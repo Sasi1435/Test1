@@ -1,2 +1,3 @@
 Add user data
-remove user data
+remove user data 
+change the rules
